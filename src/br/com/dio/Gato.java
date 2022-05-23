@@ -50,12 +50,4 @@ public class Gato {
         return 0;
     }
 
-    @Override
-    public String toString() {
-        return "Gato{" +
-                "nome='" + nome + '\'' +
-                ", cor='" + cor + '\'' +
-                ", idade='" + idade + '\'' +
-                '}';
-    }
 }
